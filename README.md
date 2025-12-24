@@ -7,7 +7,7 @@ Python编译器：PyCharm 2025.2.4
 
 ## 2. 下载main.py
 
-## 3. 项目根目录运行
+## 3. 项目根目录下
 安装依赖包
 ```bash
 pip install numpy
