@@ -1,13 +1,17 @@
+# Python_PreChinaWorldCup
 项目介绍：Python数据科学期末作业
 
-1.环境配置
-Python解释器版本：Python3.14
+## 1. 环境配置
+Python解释器版本：Python3.14  
 Python编译器：PyCharm 2025.2.4
 
-2.下载main.py
+## 2. 下载main.py
 
-3.项目根目录运行
+## 3. 项目根目录运行
+安装依赖包
+```bash
 pip install numpy
 pip install matplotlib
+```
 
-4.运行程序
+## 4. 运行项目
